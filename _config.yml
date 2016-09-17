@@ -1,2 +1,3 @@
-  name: Alex Lee, UW undergraduate student
-  markdown: kramdown
+name: Alex Lee, UW undergraduate student
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
