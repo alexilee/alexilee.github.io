@@ -2182,6 +2182,7 @@
 			}
 
 			#main > section.one {
+				color: white;
 				/*background-color: #81918E; */
 				background-image: url("/images/forest.JPG");
 				background-size: 100% 100%;
