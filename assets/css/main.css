@@ -2138,7 +2138,7 @@
 				}
 
 /* Main */
-
+	
 	#main {
 		margin-left: 375px;
 	}
@@ -2182,7 +2182,7 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				/*background-color: #81918E; */
 				background-image: url("../../images/forest.jpg");
 			}
 
